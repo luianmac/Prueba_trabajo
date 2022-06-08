@@ -1,2 +1,3 @@
 hola etee es un escrito de prueba XD xd
 linea agergada para comprobara el uso del comando git diff
+tengp que practicar ahora python y luego mysql
